@@ -22,7 +22,9 @@ button {
   border: 1px solid #ccc;
   border-radius: 7px;
 }
-
+input[type='text'] {
+  margin-left: 15px;
+}
 button {
   cursor: pointer;
   background-color: #4e75ff;
@@ -49,6 +51,7 @@ button:disabled {
   display: flex;
   gap: 20px;
   margin-top: 20px;
+  margin-left: 15px;
 }
 
 .field {
