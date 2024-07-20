@@ -50,7 +50,7 @@ function startTimer(event) {
         title: '',
         message: 'Timer is ower!',
       });
-      datetimePicker.disabled = false;
+      dateTimePicker.disabled = false;
       return;
     }
 
